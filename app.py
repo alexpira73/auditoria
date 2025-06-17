@@ -1,3 +1,4 @@
+# Forçando a reconstrução - v1.1
 # app.py
 
 import streamlit as st
