@@ -1,3 +1,4 @@
+streamlit
 langchain
 langchain-google-genai
 langchain_google_community
@@ -5,4 +6,3 @@ pypdf
 faiss-cpu
 google-auth-oauthlib
 google-api-python-client
-streamlit
