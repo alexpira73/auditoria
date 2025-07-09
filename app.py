@@ -5,7 +5,7 @@ import streamlit as st
 import json
 import os
 from google.oauth2.service_account import Credentials
-from langchain_google_community.document_loaders import GoogleDriveLoader
+from langchain_community.document_loaders import GoogleDriveLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain.vectorstores import FAISS
